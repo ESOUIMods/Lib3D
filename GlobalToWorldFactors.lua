@@ -1,7 +1,7 @@
 -- This file defines factors which transform global map units into the world units (meters)
 -- Not a fan of hardcoding these, but I don't know any way to instantly calculate these values when a player enters a zone.
 
-local LIB_NAME = "Lib3Dv3"
+local LIB_NAME = "Lib3D-v3"
 local lib = Lib3D
 
 local DEFAULT_GLOBAL_TO_WORLD_FACTOR = 25000

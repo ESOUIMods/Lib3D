@@ -2,7 +2,7 @@
 -- some helper functions to be used for converting coordinate systems (local, global, world, renderspace)
 -- also some functions to retrieve the camera and player position
 
-local LIB_NAME = "Lib3Dv3"
+local LIB_NAME = "Lib3D-v3"
 
 Lib3D = {}
 local lib = Lib3D
