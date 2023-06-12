@@ -4,7 +4,7 @@
 ## AddOnVersion: 312
 ## IsLibrary: true
 ## APIVersion: 100029 100030
-## DependsOn: LibGPS>=66 LibMapPing>=1236
+## DependsOn: LibGPS>=69 LibMapPing>=1236
 ## SavedVariables: Lib3D_SavedVars
 
 Lib3D.lua
